@@ -21,6 +21,9 @@
 	<developers>
 		<developer/>
 	</developers>
+	<modules>
+		<module>protobuf</module>
+	</modules>
 	<scm>
 		<connection/>
 		<developerConnection/>
