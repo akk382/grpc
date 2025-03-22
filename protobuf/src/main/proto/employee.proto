@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 option java_multiple_files=true;
-option java_package="com.grpc";
+option java_package="org.distributed";
 option java_outer_classname="EmployeeProto";
 import "google/protobuf/timestamp.proto";
 package com.grpc;
