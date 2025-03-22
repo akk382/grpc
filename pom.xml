@@ -23,6 +23,8 @@
 	</developers>
 	<modules>
 		<module>protobuf</module>
+		<module>stock-trading-server</module>
+		<module>stock-trading-client</module>
 	</modules>
 	<scm>
 		<connection/>
